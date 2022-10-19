@@ -36,11 +36,11 @@ header{
     cursor: pointer;
 }
 .encabezado-link a{
-    color:#2ecc71;
+    color: white;
     font-size: 12;
 }
 .encabezado-link a:hover{
-    color: white;
+    color: #2ecc71;
     transition: 0.3s all;
 }
 .logo i{
@@ -71,5 +71,41 @@ button:hover{
     background-color: #2ecc71;
     color: white;
     transition: 0.5s;
-    
+
 }
+.container-text{
+    padding: 150px 0 0 130px;
+}
+
+.text h3{
+    color: white;
+    font-size: 20px;
+}
+
+.text h1{
+    color: white;
+    margin-top: 10px;
+}
+
+.text span{
+    color: #2ecc71;
+}
+
+.text p{
+    color: white;
+    font-size: 10px;
+    font-weight: 30px;
+    margin-top: 10px;
+}
+
+.redes-sociales a{
+    color: #2ecc71;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+    
